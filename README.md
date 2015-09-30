@@ -6,7 +6,8 @@ index.html ya está definido y se escribe su contenido en el documento de la
 página.
 
 Se espera obtener una página con la siguiente estructura:
-=======================================================================
+
+---
 # HTML+JS Table
 
 |No | Nombre   |
@@ -21,4 +22,4 @@ Se espera obtener una página con la siguiente estructura:
 ----------------
 | N | Nombre0N |
 
-=======================================================================
+---
