@@ -7,19 +7,14 @@ página.
 
 Se espera obtener una página con la siguiente estructura:
 
----
-# HTML+JS Table
+```
+HTML+JS Table (título)
 
-|No | Nombre   |
-----------------
-| 1 | Nombre01 |
-----------------
-| 2 | Nombre02 |
-----------------
-| 3 | Nombre03 |
-----------------
-|   | ...      |
-----------------
-| N | Nombre0N |
-
----
+No | Nombre
+--------------
+ 1 | Nombre01
+ 2 | Nombre02
+ 3 | Nombre03
+   | ...     
+ N | Nombre0N
+```
